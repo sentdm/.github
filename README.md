@@ -1,4 +1,3 @@
-# .github!
 
 <a href="https://sent.dm">
   <img alt="Sent.dm is a unified API for sending messages across SMS and apps." src="https://github.com/sentdm/.github/assets/153308333/c24e4978-0494-41ac-a059-0cbd88744861">
